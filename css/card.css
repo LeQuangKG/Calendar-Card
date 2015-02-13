@@ -1,0 +1,68 @@
+.card {
+	width:235px;
+	height:348px;
+	-webkit-transform-style: preserve-3d;
+	-webkit-transition: 1s;
+}
+	
+
+.face {
+	position: absolute;
+	-webkit-backface-visibility: hidden;
+}
+
+
+.ringier {
+	float: left; 
+	position: absolute;
+	width:235px;
+	height:348px;
+	-webkit-perspective: 1000; 
+}
+	.ringier .front {
+		
+	}
+	.ringier .back {
+		/*
+		width:430px;
+		height:619px; 
+		*/
+		-webkit-transform: rotateY(180deg);
+		z-index: 6;
+		
+	}
+.backobj{
+	width:430px;
+	height:619px; 
+}
+
+
+.front {
+	z-index: 10;
+}
+
+.frontindex{
+	z-index: 0;
+}
+
+.cardindex{
+	z-index: 10;
+}
+
+
+.cardeffect{
+	-webkit-transform: rotateY(180deg);				
+}
+
+
+/*
+.ringier:hover .front {
+	z-index: 0;
+} 
+
+
+.ringier:hover .card {
+		-webkit-transform: rotateY(180deg);				
+}
+	
+*/

@@ -1,0 +1,275 @@
+/* MOVE KEYFRAME */
+.card0{
+	top:22px;
+	left:22px;
+}
+
+.move0{
+	-webkit-animation: move0 1.5s;
+	z-index: 3;
+}
+
+
+
+@-webkit-keyframes move0 {
+	from {
+    	top:22px;
+		left:22px;
+ 	 }
+	to {
+		top: 74px;
+		left: 493px;
+	 }
+}
+
+.return0{
+	-webkit-animation: return0 1s;
+}
+
+@-webkit-keyframes return0 {
+	from {
+    	top: 74px;
+		left: 493px;
+ 	 }
+	to {
+		top:22px;
+		left:22px;
+	 }
+}
+
+/* 1 */ 
+.card1{
+	top:24px;
+	left:260px;
+}
+
+.move1{
+	-webkit-animation: move1 1.5s;
+	z-index: 3;
+}
+
+
+
+@-webkit-keyframes move1 {
+	from {
+    	top:24px;
+		left:260px;
+ 	 }
+	to {
+		top: 74px;
+		left: 493px;
+	 }
+}
+
+.return1{
+	-webkit-animation: return1 1s;
+}
+
+@-webkit-keyframes return1 {
+	from {
+    	top: 74px;
+		left: 493px;
+ 	 }
+	to {
+		top:24px;
+		left:260px;
+	 }
+}
+
+/* 2 */ 
+.card2{
+	top:19px;
+	left:499px;
+}
+
+.move2{
+	-webkit-animation: move2 1.5s;
+	z-index: 3;
+}
+
+
+
+@-webkit-keyframes move2 {
+	from {
+    	top:20px;
+		left:499px;
+ 	 }
+	to {
+		top: 74px;
+		left: 493px;
+	 }
+}
+
+.return2{
+	-webkit-animation: return2 1s;
+}
+
+@-webkit-keyframes return2 {
+	from {
+    	top: 74px;
+		left: 493px;
+ 	 }
+	to {
+		top:20px;
+		left:499px;
+	 }
+}
+
+/* 3 */ 
+
+.card3{
+	top:16px;
+	left:738px;
+}
+
+.move3{
+	-webkit-animation: move3 1.5s;
+	z-index: 3;
+}
+
+
+
+@-webkit-keyframes move3 {
+	from {
+    	top:17px;
+		left:738px;
+ 	 }
+	to {
+		top: 74px;
+		left: 493px;
+	 }
+}
+
+.return3{
+	-webkit-animation: return3 1s;
+}
+
+@-webkit-keyframes return3 {
+	from {
+    	top: 74px;
+		left: 493px;
+ 	 }
+	to {
+		top:17px;
+		left:738px;
+	 }
+}
+
+/* 4 */ 
+.card4{
+	top:369px;
+	left:21px;
+}
+
+.move4{
+	-webkit-animation: move4 1.5s;
+	z-index: 3;
+}
+
+
+
+@-webkit-keyframes move4 {
+	from {
+    	top:369px;
+		left:21px;
+ 	 }
+	to {
+		top: 74px;
+		left: 493px;
+	 }
+}
+
+.return4{
+	-webkit-animation: return4 1s;
+}
+
+@-webkit-keyframes return4 {
+	from {
+    	top: 74px;
+		left: 493px;
+ 	 }
+	to {
+		top:369px;
+		left:21px;
+	 }
+}
+
+/* 5 */ 
+
+.card5{
+	top:369px;
+	left:260px;
+}
+
+.move5{
+	-webkit-animation: move5 1.5s;
+	z-index: 3;
+}
+
+
+
+@-webkit-keyframes move5 {
+	from {
+    	top:369px;
+		left:260px;
+ 	 }
+	to {
+		top: 74px;
+		left: 493px;
+	 }
+}
+
+.return5{
+	-webkit-animation: return5 1s;
+}
+
+@-webkit-keyframes return5 {
+	from {
+    	top: 74px;
+		left: 493px;
+ 	 }
+	to {
+		top:369px;
+		left:260px;
+	 }
+}
+
+/* 6 */ 
+.card6{
+	top:369px;
+	left:499px;
+}
+
+.move6{
+	-webkit-animation: move6 1.5s;
+	z-index: 3;
+}
+
+
+
+@-webkit-keyframes move6 {
+	from {
+    	top:369px;
+		left:499px;
+ 	 }
+	to {
+		top: 74px;
+		left: 493px;
+	 }
+}
+
+.return6{
+	-webkit-animation: return6 1s;
+}
+
+@-webkit-keyframes return6 {
+	from {
+    	top: 74px;
+		left: 493px;
+ 	 }
+	to {
+		top:369px;
+		left:499px;
+	 }
+}
+
